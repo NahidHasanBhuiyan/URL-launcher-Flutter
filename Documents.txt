@@ -1,0 +1,2 @@
+pubspec.yaml need to add a dependencies:
+url_launcher: ^6.0.16
